@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhudso
 - 👀 I’m interested in finding ways to automate
-- 🌱 I’m currently learning powershell to help automate repetiative tasks.
+- 🌱 I’m currently learning powershell to help automate repetitive tasks.
 - 📫 You can find me on linked in: https://www.linkedin.com/in/zacharylhud/. (I don't really do social media)
 
 <!---
