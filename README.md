@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zach Hudson. I work for an IT MSP and I encounter lots of different environments everyday.
+- 👋 Hi, I’m Zach Hudson.
 - 👀 I’m interested in finding ways to automate repetitive tasks
 - 🌱 I’m currently learning powershell to help automate repetitive tasks that I perform often.
 
