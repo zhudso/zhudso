@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zach Hudson.
 - 👀 I’m interested in finding ways to automate repetitive tasks
-- 🌱 I’m currently learning powershell to help automate repetitive tasks that I perform often.
+- 🌱 Using Powershell to help engineer solutions to problems that may or may not exist.. 
 
 <!---
 zhudso/zhudso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
